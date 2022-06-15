@@ -1,6 +1,6 @@
-train: ../Data/images/train/
-val: ../Data/images/val/
-test: ../Data/images/test/
+train: /content/yolov5/Data/images/train
+val: /content/yolov5/Data/images/val
+test: /content/yolov5/Data/images/test
 
 # number of classes
 nc: 41
